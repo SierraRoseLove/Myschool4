@@ -1,0 +1,70 @@
+<h2 class="page-header" id="new">What's New</h2>
+
+<ul class="list-group"
+
+    <li class="list-group-item list-group-item-success col-lg-12 col-md-12 col-sm-12 col-xs-12 environment_li">
+        <h4>New School Canteen</h4>
+        <img src="canteen.jpg" class="img-responsive col-lg-5 col-md-5 ocl-sm-5 col-xs-12">
+        <p clas="list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12">The food options and responsibilities to
+            consider, canteens must be better organised and more efficient than they have been in the past. Online menues
+            with photographes of the meals prepared, and detailed descriptions of their ingredients help both students and
+            parents make the right nutritional choices. Each student or staff member who accesses the canteen could be
+            provided with a School Canteen Account on the school website that keepstrack of their previous meal choises
+            and any dietary require ments they have. Ordering  online by ticking a box and paying for meals online can
+            eliminate all the fuss of money handaling, making it safer and less complicated for the staff and students alike.
+            Here again, diversity is the key.</p>
+            </li>
+        </ul>
+
+        <li class="list-group-item list-group-item-warning col-lg-12 col-,d-12 col-sm-12 col-xs-12 environment_1">
+            <h4>Implemented Online Attendance Management System</h4>
+            <img src="attendance.jpg" class="img-responsive col-lg-5 col-md-5 col-sm-5 col-xs-12">
+            <p class="list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12">1. Accuracy
+                Humans are prone to error, even even if we provide them with supporting computational devices. Automated attendance
+                management systems ensure accurate time records and minimize the inevitable and costly errors with manual data
+                entry. This accurate data therebye helps to provide accurate preformance and payroll data.
+                <br>
+                2. Economics
+                Have you ever thought that attendance management systems could control costs? It saves money by putting an end
+                to inaccurate time reporting, body punching, absenteenism, tardiness, time abuse, and overpayment. As a matter
+                of fact, a study done by the Axsium Group found that large orginizations save up to $1,600 per employee after
+                implementing automated attendance management systems.
+                <br>
+                3. Productivity / Efficiency
+                Monitoring and managing attendance manualy can be time consuming, laborus, and expessive affair. It takes
+                time to process paper sheets and time cards, create scheduels, authorize leave over time, and create
+                payroll manualy. Free up precious administration time with an automated system that does it all for you, from
+                keeping track employee hours to automatically importing information into your payroll system. The time and
+                effort saved combined with data accurancy helps optomizing the use of resources which lead to increased
+                productivity and improves profits. And many more like visibility / Insights, Hassle Free Workflow Management,
+                Flexibility, Integration / Configure, Real-time tracking, Security, and Compliance.
+            </p>
+        </li>
+
+        <section id="contact">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1mB!1m3!1d15078.353856082635!2d72.8906491!3d19.1257017!
+                3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xacf72f56793d190a!2sWHITEHAT%20EDUCATIONOf%20TECHNOLOGY%20PVT%20
+                LTD!5e0!2m2!sen!2sin!4v1573468987088!Sm2!1sen!2sin"
+                hight="450" frameborder="0" allowfullscreen=""></iframe>
+            <hr>
+            <img src="sp.png" class="img-responsive img-circle col-lg-3 col-md-3 col-sm-3 col-xs-4">
+            <h3>Principle name: </h3>
+            <h4>Mr.Xavier John Dcosta </h4>
+
+            <div class="contact_1">
+
+                <a href="mailto:my@gmail.com?Subject=Hi">
+                    <h5><i class="fa fa-envelope"></i>&nbsp;&nbsp;school@gmail.com</h5>
+                </a>
+
+                <a href="#">
+                    <h5><i class="fa fa-instagram"></i>&nbsp;&nbsp;schoolId</h5>
+                </a>
+
+                <a href="#">
+                    <h5><i class="fa fa-phone-square"></i>&nbsp;&nbsp;9916001600</h5>
+                </a>
+            </div>
+            
+        </section>
